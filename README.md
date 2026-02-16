@@ -1,46 +1,94 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaSingh251&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=AdityaSingh251&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Aditya Singh</h1>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSingh251&show_icons=true&theme=tokyonight" />
+  🚀 Full Stack Developer | JavaScript | Node.js | React  
+  <br/>
+  💡 Building real-world applications & automation solutions
 </p>
-Hi 👋, I'm Aditya Singh
 
-🚀 Full Stack Developer | JavaScript | Node.js | React  
-💡 Building real-world projects & automations  
-🎯 Interested in Backend, Automation & Scalable Systems
+---
 
-🔹 Tech Stack:
-- Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express
-- Tools: Git, GitHub, Postman
+## 👨‍💻 About Me
+- 🔧 Passionate about **Backend Development & Automation**
+- 🧠 Strong understanding of **authentication, APIs & scalable systems**
+- 🎯 Actively looking for **internships / entry-level developer roles**
+
+---
+
+## 🛠 Tech Stack
+
+### 🌐 Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" />
+</p>
+
+### 🗄 Database
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" />
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
 ### 📊 User Dashboard
 A role-based dashboard application for managing users and visualizing data.
 
-- 🔐 Authentication & authorization
-- 👥 Role-based access control
-- 📈 Dynamic & responsive UI
-- 🛠 Tech: JavaScript, Node.js, Express, MongoDB
+**Key Highlights**
+- 🔐 Authentication & Authorization
+- 👥 Role-Based Access Control
+- 📱 Dynamic & Responsive UI
 
-🔗 Repo: https://github.com/AdityaSingh251/user-dashboard
+**Tech Used**
+- JavaScript, Node.js, Express, MongoDB
+
+🔗 **Repository:**  
+https://github.com/AdityaSingh251/user-dashboard
 
 ---
 
 ### 💼 Job Tracker
 A full-stack job application tracking system to manage job hunt efficiently.
 
-- 📝 Track applications & statuses
-- 🔍 Filter and search jobs
+**Key Highlights**
+- 📝 Track job applications & statuses
+- 🔍 Filter and search functionality
 - 🔐 Secure login system
-- 🛠 Tech: JavaScript, Node.js, Express, MongoDB
 
-🔗 Repo: https://github.com/AdityaSingh251/job-tracker
+**Tech Used**
+- JavaScript, Node.js, Express, MongoDB
 
+🔗 **Repository:**  
+https://github.com/AdityaSingh251/job-tracker
 
-📫 Reach me at:
-- LinkedIn: www.linkedin.com/in/adityasingh251
+---
 
-- Email:adityaasingh025@gmail.com
+## 📫 Let’s Connect
+- 💼 **LinkedIn:** https://www.linkedin.com/in/adityasingh251  
+- 📧 **Email:** adityasingh025@gmail.com  
+
+---
+
+<p align="center">
+  ⭐ If you like my work, feel free to star the repositories!
+</p>
