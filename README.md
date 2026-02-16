@@ -69,7 +69,7 @@ https://github.com/AdityaSingh251/user-dashboard
 
 ## 📫 Let’s Connect
 - 💼 **LinkedIn:** https://www.linkedin.com/in/adityasingh251  
-- 📧 **Email:** adityasingh025@gmail.com  
+- 📧 **Email:** adityaasingh025@gmail.com  
 
 ---
 
