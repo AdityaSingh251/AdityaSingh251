@@ -39,5 +39,6 @@ A full-stack job application tracking system to manage job hunt efficiently.
 
 
 📫 Reach me at:
-- LinkedIn: <your-link>
-- Email: <your-email>
+- LinkedIn: www.linkedin.com/in/adityasingh251
+
+- Email:adityaasingh025@gmail.com
