@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdityaSingh251&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSingh251&show_icons=true&theme=tokyonight" />
+</p>
 Hi 👋, I'm Aditya Singh
 
 🚀 Full Stack Developer | JavaScript | Node.js | React  
