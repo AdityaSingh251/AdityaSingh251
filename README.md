@@ -67,22 +67,6 @@ https://github.com/AdityaSingh251/user-dashboard
 
 ---
 
-### 💼 Job Tracker
-A full-stack job application tracking system to manage job hunt efficiently.
-
-**Key Highlights**
-- 📝 Track job applications & statuses
-- 🔍 Filter and search functionality
-- 🔐 Secure login system
-
-**Tech Used**
-- JavaScript, Node.js, Express, MongoDB
-
-🔗 **Repository:**  
-https://github.com/AdityaSingh251/job-tracker
-
----
-
 ## 📫 Let’s Connect
 - 💼 **LinkedIn:** https://www.linkedin.com/in/adityasingh251  
 - 📧 **Email:** adityasingh025@gmail.com  
