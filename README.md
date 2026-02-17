@@ -62,8 +62,10 @@ A role-based dashboard application for managing users and visualizing data.
 **Tech Used**
 - JavaScript, Node.js, Express, MongoDB
 
-🔗 **Repository:**  
-https://github.com/AdityaSingh251/user-dashboard
+🔗 **Website:**
+    https://user-dashboard-123frontend.vercel.app/
+
+
 
 ---
 
